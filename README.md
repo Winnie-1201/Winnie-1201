@@ -3,7 +3,7 @@
 
 ## About me:
 
-👩🏻‍💻 full-stack software engineer | 🧁 baker | ⛰ hiking | 🏂 snowboading
+👩🏻‍💻 full-stack software engineer | 🧁 baker | ⛰ hiking | 🏂 snowboarding
 
 # 💻 Tech Stack:
 
