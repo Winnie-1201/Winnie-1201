@@ -1,8 +1,9 @@
 # Hello 👋, I am Wanting
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wantinglu) 
+## About me:
+
+👩🏻‍💻 full-stack software engineer | 🧁 baker | ⛰ hiking | 🏂 snowboading
 
 # 💻 Tech Stack:
 
@@ -30,7 +31,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Winnie-1201&theme=flag-india&hide_border=false)<br/>
 
-
+## Let's Get Connected!
+<a href="https://www.linkedin.com/in/wantinglu" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://angel.co/u/winniellu" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Winnie-1201&icon=2&color=3)](https://visitcount.itsvg.in)
